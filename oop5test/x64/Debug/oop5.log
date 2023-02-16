@@ -1,0 +1,10 @@
+﻿  BUBBLE.cpp
+  CHOICE.cpp
+  CONTAINER.cpp
+  oop5.cpp
+C:\Users\OWNER\Source\Repos\oop5test\oop5.cpp(22,9): warning C4101: z: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\OWNER\Source\Repos\oop5test\CONTAINER.cpp(45): warning C4715: Container::operator=: значение возвращается не при всех путях выполнения
+C:\Users\OWNER\Source\Repos\oop5test\CHOICE.cpp(30): warning C4715: Choice::operator=: значение возвращается не при всех путях выполнения
+C:\Users\OWNER\Source\Repos\oop5test\BUBBLE.cpp(18): warning C4715: Bubble::operator=: значение возвращается не при всех путях выполнения
+  oop5.vcxproj -> C:\Users\OWNER\source\repos\oop5test\x64\Debug\oop5.exe
